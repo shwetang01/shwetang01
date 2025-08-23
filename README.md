@@ -67,11 +67,24 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+### 🔥 My Stats
 
 <div align="center">
+
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=shwetang01&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"/>
+
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetang01&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark&hide_border=false&border_radius=5&v=1" height="200" alt="readme stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetang01&layout=compact&theme=dark&hide_border=false&border_radius=5&v=1" height="200" alt="top languages"/>
+
+  <!-- Detailed stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwetang01&theme=github_dark" height="200" alt="detailed stats"/>
+
+  <!-- Top Languages (better accuracy) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetang01&layout=compact&theme=dark&hide_border=false&border_radius=5&count_private=true&include_all_commits=true" height="200" alt="top languages"/>
+
+  <!-- Profile details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwetang01&theme=github_dark" height="220" alt="profile details"/>
+
 </div>
+
+
