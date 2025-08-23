@@ -26,7 +26,7 @@
 
 <p align="left">
 - 🎓 B.Tech (IT) student at IIIT Bhopal (2023–2027)<br>
-- 🌱 I’m learning advanced MERN stack development, scalable systems & cloud services<br>
+- 🌱 I’m learning advanced MERN stack development <br>
 - ⚡ Passionate about solving problems, building web apps & contributing to open source<br>
 - 🏆 Solved 300+ coding problems, 5⭐ on HackerRank (Problem Solving), 2⭐ on CodeChef<br>
 </p>
