@@ -26,7 +26,7 @@
 
 <p align="left">
 - 🎓 B.Tech (IT) student at IIIT Bhopal (2023–2027)<br>
-- 🌱 I’m learning advanced MERN stack development <br>
+- 🌱 Currently learning advanced MERN stack development<br>
 - ⚡ Passionate about solving problems, building web apps & contributing to open source<br>
 - 🏆 Solved 300+ coding problems, 5⭐ on HackerRank (Problem Solving), 2⭐ on CodeChef<br>
 </p>
@@ -63,8 +63,7 @@
 
 <h3 align="left">🚀 Projects</h3>
 
-- 🏠 **[Real Estate Website](#)** – Built with ReactJS, responsive UI with property search by location  
-  
+- 🏠 **[Real Estate Website](https://real-estate-awp.pages.dev/)** – Built with ReactJS, responsive UI with property search by location  
 
 ###
 
@@ -73,6 +72,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shwetang01&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetang01&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="200" alt="readme stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetang01&layout=compact&theme=dark&hide_border=false&border_radius=5" height="200" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetang01&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark&hide_border=false&border_radius=5&v=1" height="200" alt="readme stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetang01&layout=compact&theme=dark&hide_border=false&border_radius=5&v=1" height="200" alt="top languages"/>
 </div>
