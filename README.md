@@ -72,7 +72,7 @@
 <div align="center">
 
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=shwetang01&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"/>
+ 
 
   <br><br>
 
