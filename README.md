@@ -33,33 +33,14 @@
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
+### 🛠️ Languages & Technologies
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,postman&perline=12&theme=dark" alt="My Skills" />
+  </a>
 </div>
 
-###
+
 
 <h3 align="left">🚀 Projects</h3>
 
@@ -67,24 +48,25 @@
 
 ###
 
-### 🔥 My Stats
-
+### 📊 GitHub Analytics
 <div align="center">
-
-  <!-- Streak -->
- 
-
-  <br><br>
-
-  <!-- Detailed stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwetang01&theme=github_dark" height="200" alt="detailed stats"/>
-
-  <!-- Top Languages (better accuracy) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetang01&layout=compact&theme=dark&hide_border=false&border_radius=5&count_private=true&include_all_commits=true" height="200" alt="top languages"/>
-
-  <!-- Profile details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwetang01&theme=github_dark" height="220" alt="profile details"/>
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwetang01&theme=github_dark" height="220" alt="Profile Details" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwetang01&theme=github_dark" height="220" alt="Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shwetang01&theme=github_dark" height="220" alt="Repos Per Language" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shwetang01&theme=github_dark" height="220" alt="Most Commit Language" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
