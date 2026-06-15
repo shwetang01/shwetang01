@@ -25,10 +25,11 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-- 🎓 B.Tech (IT) student at IIIT Bhopal (2023–2027)<br>
-- 🌱 Currently learning advanced MERN stack development<br>
-- ⚡ Passionate about solving problems, building web apps & contributing to open source<br>
-- 🏆 Solved 500+ coding problems, 5⭐ on HackerRank (Problem Solving), 2⭐ on CodeChef<br>
+- 🎓 <b>B.Tech in Information Technology</b> at IIIT Bhopal (2023–2027)<br>
+- 🚀 <b>Backend & Systems Enthusiast</b> | Currently diving deep into System Design, DevOps, and Scalable Architectures<br>
+- 🤝 <b>Open Source & Collaboration</b> | Looking to contribute to MERN Stack ecosystems and high-performance, real-time web applications<br>
+- ⚡ <b>Problem Solver</b> | Passionate about engineering efficient solutions, optimizing web performance with low-latency <br>
+- 🏆 <b>Competitive Programming</b> | Solved 500+ problems | 5⭐ on HackerRank (Problem Solving) | 2⭐ on CodeChef<br>
 </p>
 
 ###
@@ -42,9 +43,9 @@
 
 
 
-<h3 align="left">🚀 Projects</h3>
+<!-- <h3 align="left">🚀 Projects</h3>
 
-- 🏠 **[Real Estate Website](https://real-estate-awp.pages.dev/)** – Built with ReactJS, responsive UI with property search by location  
+- 🏠 **[Real Estate Website](https://real-estate-awp.pages.dev/)** – Built with ReactJS, responsive UI with property search by location   -->
 
 ###
 
