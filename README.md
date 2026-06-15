@@ -37,7 +37,7 @@
 ### 🛠️ Languages & Technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,postman&perline=12&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,redux,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,docker,aws,vercel,render&perline=10&theme=dark" alt="My Skills" />
   </a>
 </div>
 
