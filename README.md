@@ -29,7 +29,7 @@
 - 🚀 <b>Backend & Systems Enthusiast</b> | Currently diving deep into System Design, DevOps, and Scalable Architectures<br>
 - 🤝 <b>Open Source & Collaboration</b> | Looking to contribute to MERN Stack ecosystems and high-performance, real-time web applications<br>
 - ⚡ <b>Problem Solver</b> | Passionate about engineering efficient solutions, optimizing web performance with low-latency <br>
-- 🏆 <b>Competitive Programming</b> | Solved 500+ problems | 5⭐ on HackerRank (Problem Solving) | 2⭐ on CodeChef<br>
+- 🏆 <b>Competitive Programming</b> | Solved 600+ problems | 5⭐ on HackerRank (Problem Solving) | 3⭐ on CodeChef<br>
 </p>
 
 ###
@@ -43,9 +43,6 @@
 
 
 
-<!-- <h3 align="left">🚀 Projects</h3>
-
-- 🏠 **[Real Estate Website](https://real-estate-awp.pages.dev/)** – Built with ReactJS, responsive UI with property search by location   -->
 
 ###
 
