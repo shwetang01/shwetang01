@@ -30,41 +30,24 @@
 - 🤝 <b>Open Source & Collaboration</b> | Looking to contribute to MERN Stack ecosystems and high-performance, real-time web applications<br>
 - ⚡ <b>Problem Solver</b> | Passionate about engineering efficient solutions, optimizing web performance with low-latency <br>
 - 🏆 <b>Competitive Programming</b> | Solved 600+ problems | 5⭐ on HackerRank (Problem Solving) | 3⭐ on CodeChef<br>
+- 🎯 <b>Currently looking for Internship / Full-Time (FTE) opportunities in Software Engineering
 </p>
 
 ###
 
 ### 🛠️ Languages & Technologies
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,redux,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,docker,aws,vercel,render&perline=10&theme=dark" alt="My Skills" />
-  </a>
-</div>
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,redux,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,docker,aws,vercel,render&perline=10&theme=dark" alt="My Skills" /> </a> </div> <br>
 
 
 
 
 ###
 
-### 📊 GitHub Analytics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwetang01&theme=github_dark" height="220" alt="Profile Details" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwetang01&theme=github_dark" height="220" alt="Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shwetang01&theme=github_dark" height="220" alt="Repos Per Language" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shwetang01&theme=github_dark" height="220" alt="Most Commit Language" />
-      </td>
-    </tr>
-  </table>
-</div>
+📊 GitHub Analytics
+<div align="center"> <table border="0"> <tr> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwetang01&theme=github_dark" height="220" alt="Profile Details" /> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwetang01&theme=github_dark" height="220" alt="Stats" /> </td> </tr> <tr> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shwetang01&theme=github_dark" height="220" alt="Repos Per Language" /> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shwetang01&theme=github_dark" height="220" alt="Most Commit Language" /> </td> </tr> </table> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetang01&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /> </div> <br>
 
+📫 Let's Connect
+
+I'm currently open to internship and full-time software engineering roles — feel free to reach out if you'd like to collaborate or chat!
+
+<div align="center"> <a href="https://www.linkedin.com/in/shwetang-yadav-445291290/">LinkedIn</a> · <a href="https://www.codechef.com/users/shwetangvns/">CodeChef</a> · <a href="mailto:shwetanglfh@gmail.com">Email</a> </div> <br> <div align="center"> <img src="https://komarev.com/ghpvc/?username=shwetang01&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" /> </div>
